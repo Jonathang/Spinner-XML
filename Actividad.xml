@@ -1,0 +1,7 @@
+<Spinner
+        android:id="@+id/sp_aves"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/aves"/>
+        
+ // Entries es donde viene del Strings
