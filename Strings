@@ -1,0 +1,8 @@
+// Carpeta res/values/strings.xml
+
+ <string-array name="medidas">
+        <item>Kg</item>
+        <item>g</item>
+        <item>Lt</item>
+        <item>ml</item>
+    </string-array>
